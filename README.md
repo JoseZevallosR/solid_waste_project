@@ -1,2 +1,2 @@
-# solid_waste_project
+# Food waste_project
 initial ideas
